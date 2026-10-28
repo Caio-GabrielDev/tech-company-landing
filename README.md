@@ -6,6 +6,12 @@ A TechNova é uma landing page responsiva desenvolvida para uma empresa fictíci
 
 O projeto foi criado com o objetivo de praticar HTML5, CSS3, Bootstrap e JavaScript, aplicando conceitos de desenvolvimento web, responsividade e interatividade.
 
+## 🌐 Demonstração
+
+Acesse o projeto online:
+
+[Visualizar TechNova](https://caio-gabrieldev.github.io/tech-company-landing/)
+
 ## Tecnologias utilizadas
 
 - HTML5
@@ -27,3 +33,13 @@ O projeto foi criado com o objetivo de praticar HTML5, CSS3, Bootstrap e JavaScr
 ## Prévia do projeto
 
 ![Prévia da TechNova](images/preview-technova.png)
+
+## 📚 Aprendizados
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Responsividade
+- Manipulação do DOM
+- Git e GitHub
